@@ -35,3 +35,7 @@ solve the problem.
 3. Users can view problem statistics, view their previous submissions and their details (i.e. memory used, time taken, etc.)
 
 4. User can also submit in Python and Java.
+
+Contact : avisheksanvas@gmail.com , adityachd123@gmail.com .
+
+Pull requests are welcome.
